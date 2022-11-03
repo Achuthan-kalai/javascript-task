@@ -6,8 +6,8 @@ function calculate() {
         + "<p> This is Subraction Value" + (Number(value1) - Number(value2)) + "</p>"
         + "<p> This is Multiplication Value" + (Number(value1) * Number(value2)) + "</p>"
         + "<p> This is Divison Value" + (Number(value1) / Number(value2)) + "</p>"
-        + "<p> This is square of two Value" + Math.pow(Number(value1), 2) + "and" + Math.pow(Number(value2), 2) + "</p>"
-        + "<p> This is log of two Value" + Math.log(Number(value1)) + "and" + Math.log(Number(value2)) + "</p>"
+        + "<p> This is Square of two Value" + Math.pow(Number(value1), 2) + "and" + Math.pow(Number(value2), 2) + "</p>"
+        + "<p> This is Log of two Value" + Math.log(Number(value1)) + "and" + Math.log(Number(value2)) + "</p>"
         + "<p> This is Squre Root of two Value" + Math.sqrt(Number(value1)) + "and" + Math.sqrt(Number(value2)) + "</p>"}
        
 

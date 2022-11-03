@@ -17,11 +17,11 @@ function calc() {
 
     }
     console.log(obj.addnum.length)
-    document.getElementById('h3').innerHTML = "<p> This is sum of Total Value " + (Number(sumofevent) + Number(sumofodd)) + "</p>"
-        + "<p> This is sum of length " + (obj.addnum.length + obj.evennum.length) + "</p>"
+    document.getElementById('h3').innerHTML = "<p> This is Sum of Total Value " + (Number(sumofevent) + Number(sumofodd)) + "</p>"
+        + "<p> This is Sum of Length " + (obj.addnum.length + obj.evennum.length) + "</p>"
         + "<p> This Even Number" + obj.addnum + "</p>"
         + "<p> This Odd Number" + obj.evennum + "</p>"
-        + "<p> Thid Even or Even number total" + sumofevent + "</p>"
-        + "<p> Thid Odd or Even number total" + sumofodd + "</p>"
+        + "<p> Thid Even or Even number Total" + sumofevent + "</p>"
+        + "<p> Thid Odd or Even number Total" + sumofodd + "</p>"
 
 }
